@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Shreya 👋
+🔹 MSc in Data Science from Uni of Leeds, UK 
+🔹 Making Numbers Talk, One Model at a Time! 
+🔹 Currently working on finance-related AI projects
+🔹 GenAI, LLMs & Beyond – Building Smarter Systems
 
-<!--
-**spshreya/spshreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Connect with me: [![LinkedIn][(https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shreya-pandey-629bb3167/)
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=spshreya&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spshreya&layout=compact)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spshreya&theme=dark)
+
