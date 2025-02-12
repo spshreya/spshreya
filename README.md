@@ -25,9 +25,6 @@
 <br/>
 <hr />
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=spshreya&show_icons=true&theme=dark)
-
-![Your Contributions](https://github-readme-stats.vercel.app/api?username=spshreya&show_icons=true&theme=radical&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=spshreya&show_icons=true&theme=radical&count_private=true)
 
 
